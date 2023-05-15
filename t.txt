@@ -1,4 +1,0 @@
-git add .
-git commit -m "Initialize repository"
-git remote add origin git@github.com:rzbairi/github-flow.git
-git push origin master
